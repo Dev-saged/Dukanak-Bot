@@ -9,7 +9,7 @@ from aiohttp import web  # لإنشاء سيرفر وهمي يرضي Render
 
 # --- 1. إعدادات البوت والتوكن ---
 # لقد قمت بوضع التوكن الخاص بك هنا مباشرة
-TOKEN = "8482788521:AAGLSLYOoeZkgkFtu-m-qWs2hadJqfZGkRI"
+TOKEN = "8482788521:AAGwjUpUjNlb9Vdp4fZZpKnUQqugYGcrSYQ"
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=TOKEN)
